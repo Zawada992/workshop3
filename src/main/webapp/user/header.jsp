@@ -46,7 +46,12 @@
         <li class="nav-item active">
             <a class="nav-link" href="/user/list">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
-                <span>Show all</span></a>
+                <span>Show all users</span></a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="/user/add">
+                <i class="fas fa-fw fa-tachometer-alt"></i>
+                <span>Add user</span></a>
         </li>
 
         <!-- Divider -->
